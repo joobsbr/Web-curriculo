@@ -1,2 +1,1 @@
-# Web-curriculo
-Web curriculo Quero ser dev
+# html-css
